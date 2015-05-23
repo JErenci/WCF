@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedLib", "GettingStartedLib\GettingStartedLib.csproj", "{4FA45D20-E662-4A7B-B9D6-DB66A2C802FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedHost", "GettingStartedHost\GettingStartedHost.csproj", "{674E2E23-CF1C-430D-A53F-72B73ACC899E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4FA45D20-E662-4A7B-B9D6-DB66A2C802FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA45D20-E662-4A7B-B9D6-DB66A2C802FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA45D20-E662-4A7B-B9D6-DB66A2C802FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674E2E23-CF1C-430D-A53F-72B73ACC899E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674E2E23-CF1C-430D-A53F-72B73ACC899E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674E2E23-CF1C-430D-A53F-72B73ACC899E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674E2E23-CF1C-430D-A53F-72B73ACC899E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
